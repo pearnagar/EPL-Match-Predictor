@@ -38,8 +38,7 @@ The model is built on **XGBoost** and achieves a **~54% accuracy** on unseen tes
 ```text
 ├── EPL_Moneyball_Predictor.ipynb   # The main Production Notebook
 ├── requirements.txt                # Python dependencies
-├── README.md                       # Project Documentation
-└── data/                           # (Optional) Folder for local CSV storage
+└── README.md                       # Project Documentation
 
 ```
 
